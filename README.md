@@ -7,6 +7,13 @@ declarative style.
 Writing p5 sketches this way opens up the door for reusable components and
 cleaner code, even when the sketches grow in complexity.
 
+<p align="center">
+  <a href="https://codesandbox.io/embed/react-p5-fiber-react-spring-rvdyt"><img width="178" height="178" src="https://i.imgur.com/EFiiyA8.gif" /></a>
+</p>
+<p align="middle">
+  <i>Click on the images to try demos!</i>
+</p>
+
 ## Getting started
 
 Install it via npm or yarn:
