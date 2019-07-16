@@ -9,6 +9,7 @@ cleaner code, even when the sketches grow in complexity.
 
 <p align="center">
   <a href="https://codesandbox.io/embed/react-p5-fiber-react-spring-rvdyt"><img width="178" height="178" src="https://i.imgur.com/EFiiyA8.gif" /></a>
+  <a href="https://codesandbox.io/embed/react-p5-fiber-react-spring-usegesture-o6m1c"><img width="178" height="178" src="https://i.imgur.com/s5ZWTnl.gif" /></a>
 </p>
 <p align="middle">
   <i>Click on the images to try demos!</i>
